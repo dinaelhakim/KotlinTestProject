@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kotlin Application</string>
+    <string name="test_placeholder_str">%1$s Dina\n Float Variable : %2$s</string>
 </resources>
