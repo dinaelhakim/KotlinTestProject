@@ -1,9 +1,10 @@
-package com.elhakim.dina.kotlinapplication
+package com.elhakim.dina.kotlinapplication.activities
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.View
 import android.widget.TextView
+import com.elhakim.dina.kotlinapplication.R
 
 class MainActivity : AppCompatActivity() {
 
