@@ -1,6 +1,6 @@
 package com.elhakim.dina.kotlinapplication.models
 
-class Person {
+open class Person {
     var name = "Dina"
         //Custom constructor
         set(value) {
